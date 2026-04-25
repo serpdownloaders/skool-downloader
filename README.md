@@ -46,7 +46,7 @@ A browser extension that adds a download button to Skool (`skool.com`) classroom
 ## Videos
 
 <br><br>
-<a href="https://www.youtube.com/watch?v=YBBSkdb1YAw" target="_blank">
+<a href="https://www.youtube.com/watch?v=ujWUiJxk614" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-skoolcom-course-videos-loom-vimeo-wistia-youtube-community-posts.jpg" width="700px">
 </a>
 
@@ -102,7 +102,7 @@ You can find the installation instructions for the specific version in the relea
 
 ## Follow along installation & setup 👇
 
-<a href="https://www.youtube.com/watch?v=YBBSkdb1YAw" target="_blank">
+<a href="https://www.youtube.com/watch?v=ujWUiJxk614" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-skoolcom-course-videos-loom-vimeo-wistia-youtube-community-posts.jpg" width="700px">
 </a>
 
@@ -157,13 +157,13 @@ However, like many course platforms, they don't provide a way to download the vi
 
 So we created a way for you to download your skool.com classroom videos even if you're not technically inclined.
 
-<a href="https://www.youtube.com/watch?v=WRSzeFI_Q7g" target="_blank">
+<a href="https://www.youtube.com/watch?v=ujWUiJxk614" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/easily-download-skool-videos-free-chrome-extension-1752429029672.jpg" width="700px">
 </a>
 
 <br><br>
 
-<a href="https://www.youtube.com/watch?v=J9eetd89HZk" target="_blank">
+<a href="https://www.youtube.com/watch?v=ujWUiJxk614" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-skoolcom-videos-browser-extension.jpg" width="700px">
 </a>
 

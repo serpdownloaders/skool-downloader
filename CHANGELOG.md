@@ -62,6 +62,6 @@
 
 # Follow along installation & setup 👇
 
-<a href="https://www.youtube.com/watch?v=YBBSkdb1YAw" target="_blank">
+<a href="https://www.youtube.com/watch?v=ujWUiJxk614" target="_blank">
 <img src="https://raw.githubusercontent.com/devinschumacher/uploads/refs/heads/main/images/how-to-download-skoolcom-course-videos-loom-vimeo-wistia-youtube-community-posts.jpg" width="700px">
 </a>
